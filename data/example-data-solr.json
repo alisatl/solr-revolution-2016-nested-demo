@@ -1,0 +1,230 @@
+[
+    {
+        "author": "Tyler Cowen",
+        "text": "Trump proposes eliminating America’s $500 billion trade deficit through a combination of increased exports and reduced imports.",
+        "_childDocuments_": [
+            {
+                "sentiment": "negative",
+                "author": "Ray Lopez",
+                "text": "I’ll be the first to say this, but the analysis is flawed.",
+                "_childDocuments_": [
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "id": "17413-11428"
+                    },
+                    {
+                        "sentiment": "negative",
+                        "author": "Picador",
+                        "text": "LOL. I enjoyed Trump during last night’s stand-up bit, but this is funnier.",
+                        "_childDocuments_": [
+                            {
+                                "path": "4.posts.comments.replies.keywords",
+                                "type": "person",
+                                "id": "17413-13550",
+                                "sentiment": "positive",
+                                "text": "Trump"
+                            }
+                        ],
+                        "date": "2016-09-27T10:01:00Z",
+                        "path": "3.posts.comments.replies",
+                        "id": "17413-66188"
+                    },
+                    {
+                        "sentiment": "neutral",
+                        "author": "Cliff",
+                        "text": "So then I guess he will also eliminate the current account surplus? What will happen to U.S. asset values?",
+                        "_childDocuments_": [
+                            {
+                                "path": "4.posts.comments.replies.keywords",
+                                "type": "location",
+                                "id": "17413-14634",
+                                "text": "U.S."
+                            }
+                        ],
+                        "date": "2016-09-27T10:41:00Z",
+                        "path": "3.posts.comments.replies",
+                        "id": "17413-15764"
+                    }
+                ],
+                "date": "2016-09-27T03:21:00Z",
+                "path": "2.posts.comments",
+                "id": "17413-16993"
+            },
+            {
+                "sentiment": "positive",
+                "author": "Brian Donohue",
+                "text": "The math checks out. Solid.",
+                "_childDocuments_": [
+                    {
+                        "sentiment": "positive",
+                        "author": "JWatts",
+                        "text": "+1 Trillion dollar coin",
+                        "keywords": [],
+                        "date": "2016-09-27T14:39:00Z",
+                        "path": "3.posts.comments.replies",
+                        "id": "17413-66428"
+                    }
+                ],
+                "date": "2016-09-27T09:20:00Z",
+                "keywords": [],
+                "path": "2.posts.comments",
+                "id": "17413-10741"
+            },
+            {
+                "sentiment": "positive",
+                "author": "Brian Donohue",
+                "text": "Hillary was impressive, for sure, and Trump spent time spluttering and floundering, but he was actually able to find his feet and score some points.",
+                "_childDocuments_": [
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "type": "person",
+                        "id": "17413-16388",
+                        "sentiment": "positive",
+                        "text": "Hillary"
+                    },
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "type": "person",
+                        "id": "17413-42073",
+                        "sentiment": "positive",
+                        "text": "Trump"
+                    }
+                ],
+                "date": "2016-09-27T11:00:00Z",
+                "path": "2.posts.comments",
+                "id": "17413-16344"
+            },
+            {
+                "path": "2.posts.keywords",
+                "type": "person",
+                "id": "17413-22308",
+                "sentiment": "neutral",
+                "text": "Peter Navarro"
+            },
+            {
+                "path": "2.posts.keywords",
+                "type": "person",
+                "id": "17413-12448",
+                "sentiment": "neutral",
+                "text": "Trump"
+            },
+            {
+                "path": "2.posts.keywords",
+                "type": "location",
+                "id": "17413-22970",
+                "text": "America"
+            }
+        ],
+        "title": "Peter Navarro outlines the Trump economic plan",
+        "date": "2016-09-29T03:07:00Z",
+        "path": "1.posts",
+        "id": "17413"
+    },
+    {
+        "author": "Alex Tabarrok",
+        "text": "Barack Obama’s campaign adopted data but Hillary Clinton’s campaign has been molded by data from birth.",
+        "_childDocuments_": [
+            {
+                "sentiment": "positive",
+                "author": "Todd",
+                "text": "Clinton got out data-ed and out organized in 2008 by Obama. She seems at least to learn over time, and apply the lessons learned to the real world.",
+                "_childDocuments_": [
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "type": "person",
+                        "id": "12413-65258",
+                        "sentiment": "positive",
+                        "text": "Hillary"
+                    },
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "type": "person",
+                        "id": "12413-79997",
+                        "text": "Obama"
+                    },
+                    {
+                        "sentiment": "negative",
+                        "author": "The Other Jim",
+                        "text": "No, she lost because (1) she is thoroughly detested person and (2) the DNC decided Obama should therefore win.",
+                        "_childDocuments_": [
+                            {
+                                "path": "4.posts.comments.replies.keywords",
+                                "type": "person",
+                                "id": "12413-78755",
+                                "sentiment": "negative",
+                                "text": "Hillary"
+                            },
+                            {
+                                "path": "4.posts.comments.replies.keywords",
+                                "type": "person",
+                                "id": "12413-10643",
+                                "text": "Obama"
+                            },
+                            {
+                                "path": "4.posts.comments.replies.keywords",
+                                "type": "organization",
+                                "id": "12413-19751",
+                                "text": "DNC"
+                            }
+                        ],
+                        "date": "2016-09-08T11:24:00Z",
+                        "path": "3.posts.comments.replies",
+                        "id": "12413-20699"
+                    }
+                ],
+                "date": "2016-09-08T7:47:00Z",
+                "path": "2.posts.comments",
+                "id": "12413-18883"
+            },
+            {
+                "sentiment": "negative",
+                "author": "jim jones",
+                "text": "No one goes to Clinton rallies while tens of thousands line up to see Trump, data-mining leads to a fantasy view of the World.",
+                "_childDocuments_": [
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "type": "person",
+                        "id": "12413-12487",
+                        "sentiment": "negative",
+                        "text": "Hillary"
+                    },
+                    {
+                        "path": "3.posts.comments.keywords",
+                        "type": "person",
+                        "id": "12413-35046",
+                        "sentiment": "positive",
+                        "text": "Trump"
+                    },
+                    {
+                        "sentiment": "positive",
+                        "author": "Anon",
+                        "text": "Agreed why spend time data-mining for a fantasy view of the world , when instead you can see a fantasy in person?",
+                        "keywords": [],
+                        "date": "2016-09-08T8:56:00Z",
+                        "path": "3.posts.comments.replies",
+                        "id": "12413-10998"
+                    }
+                ],
+                "date": "2016-09-08T08:45:00Z",
+                "path": "2.posts.comments",
+                "id": "12413-85110"
+            },
+            {
+                "path": "2.posts.keywords",
+                "type": "person",
+                "id": "12413-22551",
+                "text": "Hillary"
+            },
+            {
+                "path": "2.posts.keywords",
+                "type": "person",
+                "id": "12413-26547",
+                "text": "Obama"
+            }
+        ],
+        "title": "The Irony of Hillary Clinton’s Data Analytics",
+        "date": "2016-09-09T7:27:00Z",
+        "path": "1.posts",
+        "id": "12413"
+    }
+]

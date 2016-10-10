@@ -1,0 +1,23 @@
+<add>
+<doc>
+    <field name="type">post</field>
+    <field name="author"> "Alex Tabarrok"</field>
+    <field name="title">"The Irony of Hillary Clinton’s Data Analytics"</field>
+    <field name="body">"Barack Obama’s campaign adopted data but Hillary Clinton’s campaign has been molded by data from birth."</field>
+    <field name="id">"12015-24204"</field>
+    <doc>
+        <field name="type">comment</field>
+        <field name="author">"Todd"</field>
+        <field name="text">"Clinton got out data-ed and out organized in 2008 by Obama. She seems at least to learn over time, and apply the lessons learned to the real world."</field>
+        <field name="sentiment">"positive"</field>
+        <field name="id">"29798-24171"</field>        
+        <doc>
+            <field name="type">reply</field>
+            <field name="author">"The Other Jim"</field>
+            <field name="text">"No, she lost because (1) she is thoroughly detested person and (2) the DNC decided Obama should therefore win."</field>
+            <field name="sentiment">"negative"</field>
+            <field name="id">"29798-21232"</field>
+        </doc>
+    </doc>
+</doc>
+</add>

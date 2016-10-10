@@ -1,0 +1,16 @@
+{"posts":[
+        {
+            "author":"Alex Tabarrok",
+            "title": "The Irony of Hillary Clinton’s Data Analytics",
+            "body": "Barack Obama’s campaign adopted data but Hillary Clinton’s campaign has been molded by data from birth.",
+            "comments":[
+                {
+                    "author":"Todd",
+                    "text":"Clinton got out data-ed and out organized in 2008 by Obama. She seems at least to learn over time, and apply the lessons learned to the real world.",
+                    "sentiment":"positive",
+                    "replies":[
+                        {
+                            "author":"The Other Jim",
+                            "text":"No, she lost because (1) she is thoroughly detested person and (2) the DNC decided Obama should therefore win.",
+                            "sentiment":"negative"
+                        }]}]}]}
