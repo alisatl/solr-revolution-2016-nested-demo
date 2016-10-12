@@ -70,13 +70,13 @@ def add_unique_and_parent_fields(d_solr, n, path, k, top_type):
         unique_field_name = path_to_str(path)+k+"-id"
         d_solr["_childDocuments_"][n][unique_field_name] =  uid
         #if it is on the 2nd level, update the map
-        if unique_field_name.find("2.blog-posts.") > -1:
+        if unique_field_name.find("2.posts.") > -1:
             unique_fields_map[unique_field_name] = uid
         #else, propagate the unique field for the branch stemming from level 2
         else:
             second_level_part = unique_field_name[1: unique_field_name.find(".", 13)]
-            second_level_unique_filed_name = "2"+second_level_part+"-id"
-            d_solr["_childDocuments_"][n][second_level_unique_filed_name] =  unique_fields_map[second_level_unique_filed_name]
+            second_level_unique_field_name = "2"+second_level_part+"-id"
+            d_solr["_childDocuments_"][n][second_level_unique_field_name] =  unique_fields_map[second_level_unique_field_name]
     else:
         unique_fields_map = {}
 
